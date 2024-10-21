@@ -1,5 +1,7 @@
 # omp-matrix-multiplier
 
+This project has since been [replaced](https://github.com/conanpodewitt/omp-mpi-matrix-multiplier)
+
 **Ayodhya Jayawickrema (22880852) [GitHub](https://github.com/conanpodewitt)**
 
 **Conan Dewitt (22877792) [GitHub](https://github.com/Ayodhya27)**
